@@ -1,0 +1,21 @@
+{
+  "name": "App",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://onchainlab.ai/favicon/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "https://onchainlab.ai/favicon/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "0.75"
+    }
+  ]
+}
