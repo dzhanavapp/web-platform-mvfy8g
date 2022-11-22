@@ -1,7 +1,7 @@
 {
   "name": "App",
   "id": "/?source=pwa",
-  "start_url": "/events.html?source=pwa",
+  "start_url": "/events.html?source=pwaa",
   "scope": "/",
   "display": "standalone",
   "icons": [
